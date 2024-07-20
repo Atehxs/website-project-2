@@ -26,9 +26,9 @@ Projenin canlı demosunu [buradan](https://bagdangelsinyoreselurunler.com/) gör
 4. Gerekli konfigürasyon dosyalarını düzenleyin.
 
 ## 🖼 Ekran Görüntüleri
-![Ana Sayfa](link_to_homepage_screenshot)
-![Ürün Sayfası](link_to_product_page_screenshot)
-![Alışveriş Sepeti](link_to_cart_screenshot)
+![Ana Sayfa](https://github.com/Atehxs/website-project-2/blob/main/Ana%20Sayfa.png)
+![Ürün Sayfası](https://github.com/Atehxs/website-project-2/blob/main/%C3%9Cr%C3%BCnlerimiz%20Sayfas%C4%B1.png)
+![Alışveriş Sepeti](https://github.com/Atehxs/website-project-2/blob/main/Sepetim%20Sayfas%C4%B1%20.png)
 
 ## 📬 İletişim
 - **E-posta:** edipgr5@gmail.com
